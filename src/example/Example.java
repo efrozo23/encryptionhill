@@ -313,6 +313,10 @@ public class Example {
 
         return vec;
     }
+    
+    /**
+     * @Multiplica el vector por la matriz 
+     */
 
     public static List<Integer> vectorEncrypt(ArrayList<int[]> vec, int[][] matrix) {
         List<Integer> matrizx = new ArrayList<>();
