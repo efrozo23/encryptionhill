@@ -315,7 +315,7 @@ public class Example {
     }
     
     /**
-     * @Multiplica el vector por la matriz 
+     * @Multiplica el vector por la matriz test
      */
 
     public static List<Integer> vectorEncrypt(ArrayList<int[]> vec, int[][] matrix) {
